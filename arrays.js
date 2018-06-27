@@ -40,4 +40,3 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
    array.slice(0,array.length-1)
  }
  
- function 
